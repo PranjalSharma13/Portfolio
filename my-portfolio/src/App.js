@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Intro from './components/Intro';
 
 function App() {
   return (
      <>
-     <h1>I am Pranjal</h1>
+     <Intro/>
      </>
   );
 }
