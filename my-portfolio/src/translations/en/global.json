@@ -1,0 +1,11 @@
+{
+    "header":{
+        "message":"Welcome to Pranjal's website"
+    },
+    "home":{
+        "intro1":"  Hello,I am",
+        "intro2":"A full-stack web developer.",
+        "moreButton":"More About Me"
+        
+    }
+}
